@@ -17,8 +17,6 @@
 
 <!-- Example: ![App screenshot](./docs/screenshot.png) -->
 
-<sub>Replace the comment above with a screenshot or GIF of the dashboard / analysis flow.</sub>
-
 </div>
 
 ---
