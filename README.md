@@ -13,6 +13,8 @@
 <br />
 
 <!-- Add screenshot here -->
+<img width="1903" height="810" alt="image" src="https://github.com/user-attachments/assets/2937f2c0-7437-4cf4-a9b3-de7de8daaa81" />
+
 <!-- Example: ![App screenshot](./docs/screenshot.png) -->
 
 <sub>Replace the comment above with a screenshot or GIF of the dashboard / analysis flow.</sub>
