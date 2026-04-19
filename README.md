@@ -4,6 +4,10 @@
 
 ---
 
+<img width="1903" height="815" alt="image" src="https://github.com/user-attachments/assets/1fb17c35-8c86-4540-85cd-7d45dfef02d8" />
+
+---
+
 ## Features
 
 - **Resume PDF upload and extraction** — PDF text via `pdfjs-dist`, editable before analysis
