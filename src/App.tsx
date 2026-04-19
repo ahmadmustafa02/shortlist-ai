@@ -5,12 +5,12 @@ import { Toaster } from "@/components/ui/toaster";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { AuthProvider } from "@/hooks/useAuth";
 import { ProtectedRoute } from "@/components/ProtectedRoute";
-import Landing from "./pages/Landing";
-import Auth from "./pages/Auth";
-import Dashboard from "./pages/Dashboard";
-import NewAnalysis from "./pages/NewAnalysis";
-import AnalysisResult from "./pages/AnalysisResult";
-import NotFound from "./pages/NotFound.tsx";
+import Landing from "./views/Landing";
+import Auth from "./views/Auth";
+import Dashboard from "./views/Dashboard";
+import NewAnalysis from "./views/NewAnalysis";
+import AnalysisResult from "./views/AnalysisResult";
+import NotFound from "./views/NotFound.tsx";
 
 const queryClient = new QueryClient();
 
